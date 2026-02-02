@@ -1,1 +1,0 @@
-I used ChatGPT (OpenAI) as a generative AI tool to assist with debugging, code structuring, and interpretation of results for this project. All modeling choices, code execution, and final submissions were reviewed and run by me.
