@@ -1,2 +1,2 @@
-UCB1 (upper confidence bound) with reward scaling to [0,1].
-Rewards are bounded continuous (not 0/1), so UCB1 applies; Thompson-with-beta assumes Bernoulli rewards and ε-greedy is a weaker baseline.
+UCB1 (upper confidence bound) for bounded nonnegative rewards.
+Rewards are bounded continuous (not 0/1), so UCB1 applies; Beta-Bernoulli Thompson assumes Bernoulli rewards and ε-greedy is a weaker baseline.
