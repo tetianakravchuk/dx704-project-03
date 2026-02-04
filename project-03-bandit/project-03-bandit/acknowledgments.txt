@@ -1,2 +1,0 @@
-Used ChatGPT to clarify bandit concepts (ε-greedy, UCB, Thompson sampling) and to help draft/organize code for this notebook.
-No other outside sources.
