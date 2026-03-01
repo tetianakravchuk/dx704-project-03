@@ -1,0 +1,5 @@
+I completed this assignment independently and did not discuss it with any classmates.
+
+I did not use any external libraries beyond Python’s built-in csv module for reading and writing TSV files.
+
+I used ChatGPT (OpenAI) for conceptual clarification of Markov decision processes and value iteration, and for implementation guidance. All final code was written, reviewed, and executed by me in accordance with the course academic integrity policy.
