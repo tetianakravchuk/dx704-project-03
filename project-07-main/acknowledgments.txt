@@ -1,0 +1,5 @@
+Collaboration: none.
+
+Additional libraries: none.
+
+Generative AI usage: ChatGPT was used for debugging support and code review.
