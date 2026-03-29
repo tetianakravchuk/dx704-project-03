@@ -1,0 +1,5 @@
+Collaboration: none.
+
+Additional libraries: none.
+
+Generative AI usage: Claude Code (claude-sonnet-4-6 by Anthropic) was used to help implement this assignment. Claude assisted with designing the feature extractor, implementing the multinomial Naive Bayes classifier with Laplace smoothing, and constructing the ROC curve. All generated code was reviewed and executed in the notebook. Claude Code does not generate shareable transcript links; see https://claude.ai/code for more information.
