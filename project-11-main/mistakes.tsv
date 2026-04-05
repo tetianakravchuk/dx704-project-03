@@ -1,0 +1,6 @@
+query	target_category	predicted_category
+Electric shower head not working	electrical	plumbing
+Water pipe through attic has condensation	plumbing	roofing
+Gas valve replacement needed	plumbing	roofing
+Intercom by front door is broken	electrical	roofing
+Hot water takes forever in mornings	plumbing	roofing

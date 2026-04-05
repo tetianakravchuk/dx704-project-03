@@ -1,0 +1,3 @@
+Classify as electrical, plumbing, or roofing. Reply with one word only.
+
+Query: {query}

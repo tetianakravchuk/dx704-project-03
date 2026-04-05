@@ -1,0 +1,5 @@
+Collaboration: none.
+
+Additional libraries: google-genai (used to call the Gemini 2.0 Flash model for classifying homeowner queries into electrical, plumbing, or roofing categories).
+
+Generative AI usage: Claude Code (claude-sonnet-4-6 by Anthropic) was used to help implement this assignment. Claude assisted with designing the short and long prompt templates, writing the Gemini API call code, constructing candidate tricky queries for Part 2, and saving all required output files. All generated code was reviewed and executed in the notebook. Claude Code does not generate shareable transcript links; see https://claude.ai/code for more information.
