@@ -1,0 +1,5 @@
+Collaboration: none.
+
+Additional libraries: scipy (used scipy.spatial.distance.cdist to compute pairwise Euclidean distances between question and paragraph vectors); sklearn (used TfidfVectorizer to build 1024-dimensional TF-IDF vectors for paragraphs and questions).
+
+Generative AI usage: Claude Code (claude-sonnet-4-6 by Anthropic) was used to help implement this assignment. Claude assisted with parsing the SQuAD JSON dataset, designing the TF-IDF paragraph and question vectors, implementing nearest neighbor matching using Euclidean distance, and saving all required output files. All generated code was reviewed and executed in the notebook. Claude Code does not generate shareable transcript links; see https://claude.ai/code for more information.
