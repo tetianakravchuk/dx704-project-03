@@ -22,3 +22,6 @@ ENV/
 # Logs
 *.log
 project-01-portfolio/
+project-12-main/.hf-cache/
+project-12-main/embedding_cache.npy
+project-12-main/enron_spam_data.zip
