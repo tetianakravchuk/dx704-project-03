@@ -1,0 +1,5 @@
+Collaboration: none.
+
+Additional libraries: numpy (used for array operations and ordinary least squares); torch and transformers (used to generate BERT embeddings).
+
+Generative AI usage: OpenAI Codex was used to help fix notebook runtime issues and provide implementation suggestions for the Week 12 project. Codex assisted with debugging missing dependencies, making the notebook runnable in VS Code, and suggesting concise code for embedding generation, file export, regression fitting, and query matching. All final code and outputs were reviewed and executed in the notebook.
