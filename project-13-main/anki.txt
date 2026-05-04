@@ -1,5 +1,5 @@
 Save an empty Anki deck named empty.
-Saved Anki deck 'empty' to file.
+Saved Anki deck 'empty' to 'empty.apkg'.
 Create 10 flashcards about AI agents and tools in a deck named ai_agent_flashcards, then save it.
 Created note in Anki deck 'ai_agent_flashcards'
 Created note in Anki deck 'ai_agent_flashcards'
@@ -11,4 +11,4 @@ Created note in Anki deck 'ai_agent_flashcards'
 Created note in Anki deck 'ai_agent_flashcards'
 Created note in Anki deck 'ai_agent_flashcards'
 Created note in Anki deck 'ai_agent_flashcards'
-Saved Anki deck 'ai_agent_flashcards' to file.
+Saved Anki deck 'ai_agent_flashcards' to 'ai_agent_flashcards.apkg'.
