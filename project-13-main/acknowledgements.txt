@@ -1,0 +1,5 @@
+Collaboration: none.
+
+Additional libraries: genanki (used to create and save Anki flashcard decks as .apkg files); google-genai (used to call the Gemini model for the AI agent).
+
+Generative AI usage: Claude Code (claude-sonnet-4-6 by Anthropic) was used to help complete this assignment. Claude assisted with implementing the save_anki_deck tool and registering it with the anki_agent, generating the local submission artifacts, and verifying the generated Anki package contents. All generated code was reviewed and executed in the notebook. Claude Code does not generate shareable transcript links; see https://claude.ai/code for more information.
